@@ -1,0 +1,3 @@
+[submodule "vendor/concfg"]
+	path = vendor/concfg
+	url = git@github.com:lukesampson/concfg.git
