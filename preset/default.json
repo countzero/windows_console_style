@@ -21,13 +21,13 @@
 
     "font_face":      "Meslo LG L",
     "font_true_type": true,
-    "font_size":      "0x20",
+    "font_size":      "0x21",
     "font_weight":    400,
 
     "cursor_size": "small",
 
-    "window_size":        "80x25",
-    "screen_buffer_size": "80x200",
+    "window_size":        "100x25",
+    "screen_buffer_size": "100x500",
 
     "command_history_length": 50,
     "num_history_buffers":     4,
