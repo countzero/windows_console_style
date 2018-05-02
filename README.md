@@ -24,7 +24,7 @@ Install the `Meslo LG DZ` font from:
 
 ### Execute
 
-Execute the [install.cmd](https://github.com/countzero/windows_console_style/install.cmd).
+Execute the [install.cmd](https://github.com/countzero/windows_console_style/blob/master/install.cmd).
 
 ## License
 *Windows Console Style* is released under the [MIT license](https://opensource.org/licenses/MIT).
