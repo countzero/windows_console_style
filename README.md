@@ -1,6 +1,6 @@
 # Windows Console Style
 
-Style the windows consoles.
+Automatically style the windows consoles CMD and PowerShell.
 
 ## Installation
 

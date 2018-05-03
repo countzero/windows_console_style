@@ -6,6 +6,5 @@
 :: open after the script has finished.
 ::
 PowerShell -NoProfile ^
-           -NoExit ^
            -ExecutionPolicy Bypass ^
-           -Command "& '%~dp0script\style_all_consoles.ps1'"
+           -File "%~dp0script\style_all_consoles.ps1"
