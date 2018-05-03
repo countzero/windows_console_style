@@ -2,6 +2,14 @@
 
 Automatically style the windows consoles CMD and PowerShell.
 
+## CMD
+
+![CMD](./screenshots/CMD.png "CMD")
+
+## PowerShell
+
+![PowerShell](./screenshots/PowerShell.png "PowerShell")
+
 ## Installation
 
 ### Install Git
