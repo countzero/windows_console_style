@@ -1,6 +1,6 @@
 [submodule "vendor/concfg"]
 	path = vendor/concfg
-	url = git@github.com:lukesampson/concfg.git
+	url = https://github.com/lukesampson/concfg.git
 [submodule "vendor/Meslo-Font"]
 	path = vendor/Meslo-Font
-	url = git@github.com:andreberg/Meslo-Font.git
+	url = https://github.com/andreberg/Meslo-Font.git
